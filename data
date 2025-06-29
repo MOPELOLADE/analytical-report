@@ -1,0 +1,117 @@
+# analytical-report
+This analytical report provides a solid foundation for making data-driven decisions at the AGM. The insights into who, where, when, and how revenue is generated empower the company to sharpen its strategy across sales, marketing, operations, and customer success. 
+
+![Dashboard Overview](./TASK-25A.png)
+
+This repository presents a data-driven summary of revenue performance across regions, product categories, customer segments, and sales channels using the Power BI dashboard titled **"Analytical Reports for the Annual General Meeting for the Year 1999."**
+
+---
+
+## Objective
+
+The objective of this analysis is to evaluate the revenue performance across several business dimensions, including:
+
+- Geographic (Region & City)
+- Sales Channel (Salespersons)
+- Customer Base
+- Product Category
+- Time (Daily, Monthly, Quarterly)
+- Payment Modes
+
+The insights provided support strategic decisions at the Annual General Meeting by highlighting trends, opportunities, and performance gaps.
+
+---
+
+## Pre-Analysis Scope
+
+- **Dataset Timeline**: January 2014 to December 2014
+- **Total Revenue**: `435K`
+- **Tools Used**: Power BI, Microsoft Bing Maps Visual, DAX measures
+- **Visualization Goal**: Translate raw transaction data into interactive dashboards to answer key business questions.
+
+---
+
+## Key Metrics Monitored
+
+| Metric | Value |
+|--------|-------|
+| **Total Revenue** | 435K |
+| **Top Region** | North (141.66K) |
+| **Top City** | Chicago |
+| **Top Customer** | Company D (67K) |
+| **Top Salesperson** | Anne Larsen (104.24K) |
+| **Most Used Payment** | Credit Card |
+| **Leading Product Category** | Beverages |
+
+---
+
+## In-Analysis Breakdown
+
+### Regional & City-Level Revenue
+- **North (141.66K) ** and **East (108.28K) ** outperform other regions.
+- Top-performing cities: **Chicago**, **New York**, **Miami**, **Seattle**, **Memphis**.
+
+### Product Category Insights
+- **Beverages** lead category sales, followed by **Sauces**, **Preserves**, and **Dairy Products**.
+- Long-tail categories such as **Canned Meat** and **Condiments** show minimal revenue contribution.
+
+### Revenue by Payment Type
+- **Credit Card** is the dominant payment method with 38.41K.
+- **Check** and **Cash** follow with comparable smaller figures.
+
+### Time-Based Revenue Trends
+- Peaks observed in **April**, **August**, and **November** suggest promotional or seasonal influence.
+- Visual trend line shows cyclic patterns, valuable for campaign planning.
+
+### Customer-Level Revenue
+- Top customers:
+  - Company D – 67K
+  - Company H – 50K
+  - Company BB – 44K
+  - Company F & Company A – 37K each
+
+### Salesperson Performance
+- **Anne Larsen** and **Andrew Cencini** alone contribute more than 45% of revenue.
+- Others like **Mariya Sergienko**, **Laura Giussani**, **Michael Neipper** follow with substantial input.
+
+---
+
+## Post-Analysis Observations
+
+- **Regional Bias**: The Northern region is highly lucrative, offering potential for deeper market exploration.
+- **Customer Concentration**: High dependency on a few top clients may pose a risk; diversify client acquisition.
+- **Sales Inequality**: Most sales are driven by the top 2 representatives, indicating an opportunity for team-wide skill development.
+- **Seasonal Patterns**: Clear spikes in revenue highlight potential for targeted marketing campaigns during peak seasons.
+- **Digital Payment Preference**: Credit card dominance suggests a move toward a cashless customer base.
+
+---
+
+## Recommendations
+
+1. **Expand High-Growth Regions**: Invest more resources into North and East to exploit revenue potential.
+2. **Sales Training Programs**: Empower low-performing reps through mentorship and incentivized targets.
+3. **Customer Loyalty Initiatives**: Reward top clients and build long-term contracts.
+4. **Product Expansion Strategy**: Re-evaluate low-performing product lines or bundle them with top performers.
+5. **Plan Seasonal Campaigns**: Launch promotions around identified peak periods using time-series data.
+6. **Promote Digital Payments**: Offer discounts for digital payments to enhance collection efficiency and customer convenience.
+
+---
+
+## Conclusion
+
+This Power BI dashboard delivers a comprehensive overview of the company's 1999 revenue performance. The insights can help decision-makers align strategies with customer behavior, market trends, and operational gaps. Continued investment in data visualization and analytics will strengthen the company's data-driven culture and profitability.
+
+---
+
+## Files
+
+- `TASK-25A.png` – Dashboard screenshot
+- `README.md` – This report
+
+---
+
+## Contact: 
+Prepared by: ADEYEMI MOPELOLA  
+🔗 https://www.linkedin.com/in/mope001 
+Role: Data Analyst | Business Intelligence Specialist
+
